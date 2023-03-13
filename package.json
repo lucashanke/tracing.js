@@ -1,5 +1,5 @@
 {
-  "name": "tracing.js",
+  "name": "@lucashanke/tracingjs",
   "version": "0.0.1",
   "author": "Lucas Hanke <lucashanke@duck.com>",
   "description": "Package that helps with context tracing in NodeJS exectutions ",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lucashanke/tracing.js.git"
+    "url": "git+https://github.com/lucashanke/tracingjs.git"
   },
   "keywords": [
     "tracing",
@@ -37,7 +37,7 @@
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lucashanke/tracing.js/issues"
+    "url": "https://github.com/lucashanke/tracingjs/issues"
   },
-  "homepage": "https://github.com/lucashanke/tracing.js#readme"
+  "homepage": "https://github.com/lucashanke/tracingjs#readme"
 }
