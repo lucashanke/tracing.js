@@ -1,0 +1,30 @@
+{
+  "name": "tracing.js",
+  "version": "0.0.1",
+  "description": "Package that helps with context tracing in NodeJS exectutions ",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucashanke/tracing.js.git"
+  },
+  "keywords": [
+    "tracing",
+    "trackid",
+    "requestid",
+    "nodejs",
+    "context"
+  ],
+  "author": "Lucas Hanke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucashanke/tracing.js/issues"
+  },
+  "homepage": "https://github.com/lucashanke/tracing.js#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
